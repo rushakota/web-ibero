@@ -6,11 +6,11 @@ Este es un listado de las funcionalidades de mi proyecto para TECWEB:
 *Módulo Proyectos (EN PROCESO)
 *Módulo de autenticación (A FUTURO)
 
-##Ejecutar el siguiente para las tareas
+## Ejecutar el siguiente para las tareas
 
 ```
 	Comando escrito dentro de un cuadrito de código
 ```
 
-##Licencia
+## Licencia
 Este es un proyecto con fines educativos. Open source.
